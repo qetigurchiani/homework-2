@@ -1,0 +1,64 @@
+/**/
+.logo{
+	display: inline-block;
+	margin-right: 50px;
+}
+.navigation{
+	display: inline-block;
+}
+.nav-li {
+	display: inline-block;
+}
+.header-wraper{
+	background: lightblue;
+	padding: 15px;
+	position: fixed;
+	top: 0;
+	left: o;
+	width: 100%;
+	z-index: 10;
+
+}
+body{
+	height: 1800px;
+	padding-top: 46px;
+}
+
+/*chat image*/
+.chat-image{
+	height: 100px;
+
+}
+.chat-icon{
+	position: fixed;
+	right: 50px;
+	bottom: 50px;
+}
+/*position absolute & relaitve*/
+.block-wrapper{
+	width: 500px;
+	height: 500px;
+	background: blue;
+	position: relative;
+
+}
+.block-child{
+	width: 150px;
+	height: 150px;
+	background: yellow;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+
+}
+.hello-image{
+	position: absolute;
+	top: 50px;
+	left: 100px;
+	color: white;
+	font-size: 35px;
+}
+.image-wrapper{
+	position: relative;
+   display: inline-block;
+}
