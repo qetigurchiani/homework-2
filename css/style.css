@@ -1,64 +1,145 @@
-/**/
+
 .logo{
 	display: inline-block;
-	margin-right: 50px;
+	margin-right: 92px;
+	font-size: 13px;
 }
 .navigation{
 	display: inline-block;
 }
+.nav-li1{
+	display: inline-block;
+	margin-right: 27px;
+	font-size: 11px;
+}
 .nav-li {
 	display: inline-block;
+	margin-right: 22px;
+	font-size: 11px;
+}
+.profile-icon{
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 18px;
 }
 .header-wraper{
-	background: lightblue;
+	background: #F6F8F9 ;
 	padding: 15px;
 	position: fixed;
 	top: 0;
 	left: o;
 	width: 100%;
-	z-index: 10;
-
 }
 body{
-	height: 1800px;
-	padding-top: 46px;
+	background: #F6F8F9;
+	padding-top: 63px;
+	margin: auto;
+}
+.container-block{
+	margin-top: 40px;
+}
+.section-1{
+	width: 1160px;
+	height: 956px;
+	margin: 0 auto;
+	margin-top: 75px;
+	margin-left: 140px;
 }
 
-/*chat image*/
-.chat-image{
-	height: 100px;
+}
+.trending{
+	display: inline-block;
+	font-size: 24px;
 
 }
-.chat-icon{
-	position: fixed;
-	right: 50px;
-	bottom: 50px;
+.child-block1{
+	width: 360px;
+	height: 350px;
+	background: #FFFFFF;
+	display: inline-block;
+
 }
-/*position absolute & relaitve*/
-.block-wrapper{
-	width: 500px;
-	height: 500px;
-	background: blue;
+.child-block2{
+	width: 360px;
+	height: 350px;
+	background: #FFFFFF;
+	display: inline-block;
+	margin-left: 40px;
+	margin-right: 40px;
+
+}
+.child-block3{
+	width: 360px;
+	height: 350px;
+	background: #FFFFFF;
+	display: inline-block;
+}
+
+.child-block-img{
 	position: relative;
-
 }
-.block-child{
-	width: 150px;
-	height: 150px;
-	background: yellow;
-	position: absolute;
-	right: 0;
-	bottom: 0;
-
-}
-.hello-image{
-	position: absolute;
-	top: 50px;
-	left: 100px;
+.title{
 	color: white;
-	font-size: 35px;
+	font-size: 16px;
+	position: absolute;
+	top: 28px;
+	left: 40px;
+	font-family: ;
 }
-.image-wrapper{
+.text-description-box{
+	width: 280px;
+	height: 38px;
+	font-size: 13px;
+	color: #A6ADB4;
+	margin: 0 auto;
+	margin-top: 66px;
+	font-family: ;
+}
+.time-container{
+	margin: 10px 0 0 40px;
+}
+span{
+	color: #A6ADB4;
+	font-family: ;
+	font-size: 13px;
+}
+.section-2{
+	width: 1160px;
+	height: 956px;
+	margin: 0 auto;
+	margin-top: 118px;
+	margin-left: 140px;
+}
+.left-container{
+	width: 760px;
+	height: 900px;
+	margin-top: 40px;
+	display: inline-block;
+	vertical-align: top;
+}
+.left-images{
 	position: relative;
-   display: inline-block;
+
 }
+
+.forest-image{
+margin:33px 0 0 0 ;	
+}
+.title-on-bridge{
+	font-size: 16px;
+	color: #FFFFFF;
+	position: absolute;
+	top: 194px;
+	left: 308px;
+	font-family: ;
+}
+.right-container{
+	width: 360px;
+	height: 896px;
+	margin-top: 40px;
+	margin-left: 36px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+
