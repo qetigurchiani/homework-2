@@ -3,9 +3,11 @@
 	display: inline-block;
 	margin-right: 92px;
 	font-size: 13px;
+	font-family: 'Helvetica';
 }
 .navigation{
 	display: inline-block;
+	font-family: 'Helvetica';
 }
 .nav-li1{
 	display: inline-block;
@@ -40,15 +42,16 @@ body{
 }
 .section-1{
 	width: 1160px;
-	height: 956px;
 	margin: 0 auto;
 	margin-top: 75px;
-	margin-left: 140px;
+	font-family: 'Helvetica';
+
 }
 
 .trending{
 	display: inline-block;
 	font-size: 24px;
+
 
 }
 .child-block1{
@@ -83,7 +86,7 @@ body{
 	position: absolute;
 	top: 28px;
 	left: 40px;
-	font-family: ;
+	font-family: 'Helvetica';
 }
 .text-description-box{
 	width: 280px;
@@ -92,26 +95,25 @@ body{
 	color: #A6ADB4;
 	margin: 0 auto;
 	margin-top: 66px;
-	font-family: ;
+	font-family: 'Acumin Pro';
 }
 .time-container{
 	margin: 10px 0 0 40px;
 }
 span{
 	color: #A6ADB4;
-	font-family: ;
 	font-size: 13px;
+	font-family: 'Helvetica';
 }
 .section-2{
 	width: 1160px;
-	height: 956px;
 	margin: 0 auto;
 	margin-top: 118px;
-	margin-left: 140px;
+	font-family: 'Helvetica';
 }
 .left-container{
 	width: 760px;
-	height: 900px;
+	height: 956px;
 	margin-top: 40px;
 	display: inline-block;
 	vertical-align: top;
@@ -130,15 +132,21 @@ margin:33px 0 0 0 ;
 	position: absolute;
 	top: 194px;
 	left: 308px;
-	font-family: ;
+	font-family: 'Helvetica';
 }
 .right-container{
 	width: 360px;
-	height: 896px;
+	height: 833px;
 	margin-top: 40px;
 	margin-left: 36px;
 	display: inline-block;
 	vertical-align: top;
 }
-
+.image-2{
+	margin: 102px 0 102px 0;
+}
+.forest-image{
+	width: 760px;
+	height: 430px;
+}
 
